@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm мя.cσdε 403</h1>
 <h3 align="center">A young coder from india🇮🇳</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MrCode403&label=Profile%20views&color=0e75b6&style=flat" alt="MrCode403" /> <a href="https://wakatime.com/@850e9775-0575-4d9c-a4a2-49f5357fd384"><img src="https://wakatime.com/badge/user/850e9775-0575-4d9c-a4a2-49f5357fd384.svg" alt="Total time coded since Dec 8 2021" /></a> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MrCode403&label=Profile%20views&color=0e75b6&style=flat" alt="MrCode403" /> <a href="https://wakatime.com/@850e9775-0575-4d9c-a4a2-49f5357fd384"><img src="https://wakatime.com/badge/user/@850e9775-0575-4d9c-a4a2-49f5357fd384.svg" alt="Total time coded since Dec 8 2021" /></a> </a> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrCode403&row=1" alt="MrCode403" /></a> </p>
 
