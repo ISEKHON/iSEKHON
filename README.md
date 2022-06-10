@@ -28,5 +28,5 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MrCode403&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" alt="MrCode403" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MrCode403&theme=onedark&hide_border=true&background=00000000&stroke=80808080" alt="MrCode403" />
- <a href="https://wakatime.com/@MrCode403"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrCode403&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" alt="MrCode403" /> </a>
+ <a href="https://wakatime.com/@MrCode_403"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrCode_403&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" alt="MrCode_403" /> </a>
 </p>
