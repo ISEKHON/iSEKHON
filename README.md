@@ -20,7 +20,7 @@
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/android.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.cplusplus.org/" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg" alt="cpp" height="40" width="40" /></a>
+<a href="https://www.cplusplus.org/" tasrget="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg" alt="cpp" height="40" width="40" /></a>
 <a href="https://www.php.com" target="_blank"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
@@ -28,5 +28,5 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MrCode403&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" alt="MrCode403" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MrCode403&theme=onedark&hide_border=true&background=00000000&stroke=80808080" alt="MrCode403" />
- <a href="https://wakatime.com/@MrCode403"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrCode403&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" alt="MrCode403" /> </a>
+<a href="https://wakatime.com/@MrCode403"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrCode403&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" alt="mrcode403" /> </a>
 </p>
