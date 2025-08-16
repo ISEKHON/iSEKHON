@@ -1,6 +1,6 @@
 <!-- Header with animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+a+passionate+developer+🚀;Turning+dreams+into+digital+reality+✨;Full+Stack+Developer+%7C+Android+Expert+%7C+Game+Modder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+a+passionate+developer+🚀;Turning+dreams+into+digital+reality+✨; Full+Stack+Developer+%7C+Android+Expert+%7C+Game+Modder" alt="Typing SVG" />
 </div>
 
 <!-- Animated wave and introduction -->
